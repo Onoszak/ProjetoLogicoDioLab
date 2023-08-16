@@ -26,8 +26,13 @@ As cláusulas podem estar presentes em mais de uma query
 
 # Segue projeto lógico de uma oficina de veiculos
 Foram implementadas as queries solicitadas no desafio
+
 Adicionados Filtros Where Statement
+
 Expressões para atributos derivados
+
 Ordenação por ORDER BY
+
 Filtros de agrupamento HAVING Statement
+
 E por último junções complexas das tabelas de dados.
